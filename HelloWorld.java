@@ -7,7 +7,7 @@ public class HelloWorld{
 			System.out.println("Number "+i);
 		}
 		int i=1;
-		while(i>0){
+		while(i<=10){
 			System.out.println(i);
 			i++;
 		}
