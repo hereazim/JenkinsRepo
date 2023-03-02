@@ -11,5 +11,9 @@ public class HelloWorld{
 			System.out.println(i);
 			i++;
 		}
+		do{
+			System.out.println("Line "+i);
+			i++;
+		}while(i>=10);
 	}
 }
