@@ -1,6 +1,6 @@
 public class OddEven{
  public static void main(String[] args){
-   if(73473%2==0){
+   if(73%2==0){
     System.out.println("The given number is even"); 
    }
    else{
