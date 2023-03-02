@@ -6,5 +6,10 @@ public class HelloWorld{
 		for(int i=1;i<=10;i++){
 			System.out.println("Number "+i);
 		}
+		int i=1;
+		while(i>0){
+			System.out.println(i);
+			i++;
+		}
 	}
 }
