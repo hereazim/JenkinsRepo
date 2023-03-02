@@ -7,5 +7,6 @@ public class OddEven{
     System.out.println("The given number is odd"); 
    }
   System.out.println("A line added");
+  System.out.println("Line2 added");
  }
 }
